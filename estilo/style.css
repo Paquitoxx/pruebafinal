@@ -1,0 +1,68 @@
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 1em 0;
+    z-index: 1000;
+}
+
+body {
+    
+    margin: 0%;
+    padding: top 70px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+}
+
+/* SECCIONES */
+#index {
+    background-color: #0000ff;
+    padding: 40px;
+    text-align: justify;
+}
+
+#about {
+    background-color: #0000ff;
+    padding: 40px;
+}
+
+#Hobbies {
+    background-color: #0000ff;
+    padding: 40px;
+}
+
+#contact {
+    background-color:  #0000ff;
+    padding: 40px;
+}
+
+#Footer {
+    background-color: #0000ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
