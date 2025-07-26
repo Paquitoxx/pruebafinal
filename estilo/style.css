@@ -54,6 +54,15 @@ nav a {
     background-color: #0000ff;
     padding: 40px;
 }
+#logo {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-radius: auto;
+}
 
 #contact {
     background-color:  #0000ff;
